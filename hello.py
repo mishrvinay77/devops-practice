@@ -1,1 +1,1 @@
-print ("Hello World By Vinay!")
+print ("Hello World Vinay!")
